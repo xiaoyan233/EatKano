@@ -41,7 +41,7 @@
                 <div style="font-size:2.6em; color:#FEF002;">新概念音游</div><br />
                 <div style="font-size:2.2em; color:#fff; line-height:1.5em;">
                     从最底下岩泉一开始<br />
-                    看看你20秒能多少分<br />
+                    看看你20秒能吃几个小岩<br />
                 </div>
                 <br />
                 <div id="btn_group" style="display: block;">
